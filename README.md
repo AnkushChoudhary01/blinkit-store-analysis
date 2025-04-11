@@ -68,7 +68,7 @@ This report provides a **360° view** of Blinkit's operational metrics across mu
 
 ## 📁 File Included
 
-- <a href="https://github.com/AnkushChoudhary01/blinkit-store-analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx")>Dataset</a>
+- <a href="https://github.com/AnkushChoudhary01/blinkit-store-analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 - <a href="https://github.com/AnkushChoudhary01/blinkit-store-analysis/blob/main/Screenshot%202024-10-20%20210555.png">Dashboard</a>
 
 ---
